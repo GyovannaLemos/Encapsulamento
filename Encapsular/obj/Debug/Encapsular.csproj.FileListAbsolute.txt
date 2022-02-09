@@ -1,0 +1,10 @@
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\bin\Debug\Encapsular.exe
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\obj\Debug\Encapsular.csprojAssemblyReference.cache
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\obj\Debug\Encapsular.frmCalcular.resources
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\obj\Debug\Encapsular.Properties.Resources.resources
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\obj\Debug\Encapsular.csproj.GenerateResource.cache
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\obj\Debug\Encapsular.exe
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\19-08 encapsular\Encapsular\Encapsular\obj\Debug\Encapsular.pdb
